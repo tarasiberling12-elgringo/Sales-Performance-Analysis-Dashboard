@@ -92,3 +92,7 @@ ____
 ## Dashboard Preview
 ![Sales Dashboard](Dashboard.png)
 
+____
+
+## Data Cleaning file
+Google Sheets: [View Cleaned Data](https://docs.google.com/spreadsheets/d/e/2PACX-1vQljVz7pCYl0cUw0s_tsSdpEzMKMR_SuSIC9NEjkYDdQi1AYS0c9e1Oeffu448WU9v1hMmvlSINCsr4/pubhtml)
