@@ -15,10 +15,10 @@ The goal of this project was to analyze sales data to identify key drivers of re
 ⸻
  
 ## Tools Used
-* SQL (data cleaning and transformation in BigQuery)
-* Spreadsheets (initial exploration and validation)
-* Python (optional analysis in notebook)
-* Tableau (dashboard creation)
+* SQL (analysis)
+* Spreadsheets (initial exploration, validation and cleaning)
+* Python (notebook analysis)
+* Tableau (visualization)
  
 ⸻
  
