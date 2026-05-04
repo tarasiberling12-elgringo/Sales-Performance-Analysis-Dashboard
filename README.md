@@ -90,3 +90,5 @@ The analysis focused on identifying trends and differences across:
 ____
 
 ## Dashboard Preview
+![Sales Dashboard](Dashboard.png)
+
